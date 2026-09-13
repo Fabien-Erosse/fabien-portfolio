@@ -52,12 +52,12 @@ export const projects = [
 ];
 
 export const contact = {
-  github: "fabien-gif",
-  githubUrl: "https://github.com/fabien-gif",
-  email: "votre-email@exemple.com",
-  whatsapp: "+261 XX XX XXX XX",
+  github: "fabien-git",
+  githubUrl: "https://github.com/fabien-git",
+  email: "patrickmanjaka@75gmail.com",
+  whatsapp: "0328099073",
   // Crée un compte gratuit sur https://formspree.io, crée un formulaire,
   // et remplace VOTRE_ID par l'identifiant qu'il te donne (ex: https://formspree.io/f/abcdwxyz).
   // Tant que ce n'est pas fait, le formulaire de contact ne pourra pas t'envoyer d'e-mail.
-  formEndpoint: "https://formspree.io/f/VOTRE_ID",
+  formEndpoint: "https://formspree.io/f/xrpgwenp",
 };
